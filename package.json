@@ -2,8 +2,9 @@
   "name": "rzero-tools",
   "version": "1.0.1",
   "description": "A decorator and HOC component for redux-zero",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
+    "build": "sh ./build",
     "test": "jest"
   },
   "repository": {

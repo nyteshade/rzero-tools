@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm -rf lib
+pushd src
+npx babel --minified -s true -d ../lib/ index.js rzero-tools.js
+popd
+
