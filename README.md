@@ -82,7 +82,7 @@ state is supplied.
 #### Caveats / TODOs
 **Important**
 
- 1. Currently, due to the way this was built, the page specified in the storeshould all consist of objects or **bad** things will happen to your store.
+ 1. Currently, due to the way this was built, the path specified in the store should all consist of objects or **bad** things will happen to your store.
  2. There may be a way to refactor things in the future, perhaps in a 2.0 release, where the store does not have to be passed to the decorator.
 
 These would be ideal and if I continue to use `redux-zero` I'll focus on these
