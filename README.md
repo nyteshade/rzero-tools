@@ -1,4 +1,4 @@
-# Redux-Zero Tools (rzero-tools) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) ![package version](https://img.shields.io/badge/dynamic/json.svg?label=version&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fnyteshade%2Frzero-tools%2Fmaster%2Fpackage.json&query=version&colorB=1d7ebe)
+# Redux-Zero Tools (rzero-tools) [![Build Status](https://travis-ci.org/nyteshade/rzero-tools.svg?branch=master)](https://travis-ci.org/nyteshade/rzero-tools) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) ![package version](https://img.shields.io/badge/dynamic/json.svg?label=version&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fnyteshade%2Frzero-tools%2Fmaster%2Fpackage.json&query=version&colorB=1d7ebe)
 
 ## Overview
 I was recently reviewing `redux-zero` and the tool seems to seriously take the
